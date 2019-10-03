@@ -20,12 +20,40 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Student"
+  title = "1st year PHD"
+  company = "University of Toronto"
+  company_url = ""
+  location = "Hangzhou"
+  date_start = "2019-04-12"
+  date_end = "2019-08-12"
+  description = """
+  4-D STEM, ongoing
+
+  """
+
+
+[[experience]]
+  title = "Audio Algorithm Engineering"
+  company = "TP-Link"
+  company_url = ""
+  location = "Hangzhou"
+  date_start = "2019-04-12"
+  date_end = "2019-08-12"
+  description = """
+  Algorithm development and optimization:
+
+  * FFT Optimization
+  * Sound Source Localization
+
+  """
+
+[[experience]]
+  title = "Master Project"
   company = "Zhejiang University"
   company_url = ""
   location = "Hangzhou"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2019-03-30"
   description = """
   Studies include:
 
