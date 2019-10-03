@@ -10,15 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "4-D STEM"
     "Dynamic Systems and Control",
-    "Roboticsedd",
+    "Robotics",
     "Quantum Control and Quantum Information",
-    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MEng Candidate in Control Science and Engineering"
+  course = "MEng in Control Science and Engineering"
   institution = "Zhejiang University"
   year = 2019
 
@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-I am a master candidate in Control Science and Engineering and I got my Bachelor's degree in Mechatronics at Zhejiang University. My interests include quantum control and quantum information, dynamic systems and control, and robotics. Potential interests also include Artificial Intelligence and Biophysics. My senior project is mainly about the tip control of the flexible beam driven by linear motors based on vibration modal analysis. My master's thesis will focus on quantum optimal control and frequency control of quantum parametric oscillators. My CV can be downloaded [here](https://bshizju.netlify.com/cv/cv.pdf) and transcripts [here](https://bshizju.netlify.com/cv/Bin Shi_transcripts.pdf).
+I am a PhD student in Material Science and Engineering. I got my Master's and Bachelor's degree, respectively from CSE and ME, Zhejiang University. My CV can be downloaded [here](https://bshiuoft.netlify.com/cv/cv.pdf) and transcripts [here](https://bshiuoft.netlify.com/cv/Bin Shi_transcripts.pdf).

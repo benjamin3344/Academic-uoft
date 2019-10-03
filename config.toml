@@ -52,21 +52,21 @@ enableGitInfo = false
 
   # Your details.
   name = "Bin Shi"
-  role = "College of Control Science and Engineering"
+  role = "Department of Materials Science & Engineering"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Zhejiang University", url = "https://www.zju.edu.cn" } ]
+  organizations = [ { name = "University of Toronto", url = "https://www.utoronto.ca/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "sb.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "bshi@zju.edu.cn"
-  address = "Room 106, Institute of Cyber-Systems and Control, Zhejiang University, Hangzhou, 310027, China"
+  email = "binmse.shi@mail.utoronto.ca"
+  address = "WB Room 171, 184 College St, Toronto, ON M5S 3E4"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+86 18868108127"
-  skype = "benjamin3344@live.cn"
+  phone = "+1 6477626620"
+  skype = "benjamin3344_live.cn"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -240,12 +240,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:bshi@zju.edu.cn"
+    link = "mailto:binmse.shi@mail.utoronto.ca"
 
  # [[params.social]]
   #  icon = "twitter"
    # icon_pack = "fab"
    # link = "//twitter.com/GeorgeCushen"
+
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "//www.facebook.com/benjamin.shi.520"
 
   #[[params.social]]
    # icon = "google-scholar"
