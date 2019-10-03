@@ -33,17 +33,18 @@ date_format = "January 2006"
 
 
 [[experience]]
-  title = "Audio Algorithm Engineering"
+  title = "Audio Algorithm Engineer"
   company = "TP-Link"
   company_url = ""
   location = "Hangzhou"
   date_start = "2019-04-12"
   date_end = "2019-08-12"
   description = """
-  Algorithm development and optimization:
+  Algorithm development and optimization of IP-Camera:
 
   * FFT Optimization
   * Sound Source Localization
+  No more information is provided due to Non-Disclosure Agreement.
 
   """
 
