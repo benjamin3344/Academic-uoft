@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "1st year PHD in Material Science and Engineering"
+  course = "1st year Ph.D. in Material Science and Engineering"
   institution = "University of Toronto"
   year = 2023
 
@@ -41,4 +41,4 @@ weight = 5
 
 # Biography
 
-I am a PhD student in Material Science and Engineering, University of Toronto. I got my Master's and Bachelor's degree, respectively from CSE and ME, Zhejiang University. My CV can be downloaded [here](https://bshiuoft.netlify.com/cv/cv.pdf) and transcripts [here](https://bshiuoft.netlify.com/cv/Bin Shi_transcripts.pdf).
+I am a Ph.D. student in Material Science and Engineering, University of Toronto. I got my Master's and Bachelor's degree, respectively from CSE and ME, Zhejiang University. My CV can be downloaded [here](https://bshiuoft.netlify.com/cv/cv.pdf) and transcripts [here](https://bshiuoft.netlify.com/cv/Bin Shi_transcripts.pdf).
