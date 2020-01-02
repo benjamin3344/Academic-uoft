@@ -25,7 +25,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Toronto"
   date_start = "2019-09-12"
-  date_end = "XXXX-XX-XX"
+  date_end = "2023-09-01"
   description = """
   4-D STEM, ongoing
 
@@ -44,7 +44,7 @@ date_format = "January 2006"
 
   * FFT Optimization
   * Sound Source Localization
-  No more information is provided due to Non-Disclosure Agreement.
+    No more information is provided due to Non-Disclosure Agreement.
 
   """
 
@@ -61,7 +61,7 @@ date_format = "January 2006"
   * [Quantum Parametric Oscillators](https://bshizju.netlify.com/publication/frequency-control-of-quantum-parametric-oscillators/)  
   * [Quantum Optimal Control](https://bshizju.netlify.com/publication/time-scaling-transformation-in-quantum-optimal-control-computation/)
   * Other research includes the optimal control of NMR, superconducting quantum system and NV center. The underway research includes the Quantum Zermelo Navigation, the systems with switched potential wells.
-  """
+    """
 
 [[experience]]
   title = "Senior Project"
@@ -120,4 +120,5 @@ could fulfill the designated movements accurately.
   description = """
   Painting Robots On Web (PROW): The project aimed at drawing a portrait of a person after taking a picture. My work was to model the self-designed 4-dof robot arm and to plan the trajectories. [Read More](/PROW)
 """
+
 +++
