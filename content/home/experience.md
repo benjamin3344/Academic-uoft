@@ -23,9 +23,9 @@ date_format = "January 2006"
   title = "1st year PHD"
   company = "University of Toronto"
   company_url = ""
-  location = "Hangzhou"
-  date_start = "2019-04-12"
-  date_end = "2019-08-12"
+  location = "Toronto"
+  date_start = "2019-09-12"
+  date_end = " "
   description = """
   4-D STEM, ongoing
 
