@@ -25,7 +25,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Toronto"
   date_start = "2019-09-12"
-  date_end = " "
+  date_end = "XXXX-XX-XX"
   description = """
   4-D STEM, ongoing
 
