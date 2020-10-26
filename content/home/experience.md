@@ -27,7 +27,9 @@ date_format = "January 2006"
   date_start = "2019-09-12"
   date_end = "2023-09-01"
   description = """
-  4-D STEM, ongoing
+   * Single Particle Reconstruction: Deep Generative Networks for 3D Reconstruction of
+Continuous Conformations from Electron Micrographs
+   * EM image processing: particle picking and image segmentation in SEM images: microplastics, solder samples
 
   """
 

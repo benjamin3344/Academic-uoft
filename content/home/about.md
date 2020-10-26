@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "4-D STEM",
+    "Single Particle Reconstruction and Image Processing",
     "Dynamic Systems and Control",
     "Robotics",
     "Quantum Control and Quantum Information",
@@ -36,7 +36,7 @@ weight = 5
   course = "Chu Kochen Honors Program"
   institution = "Zhejiang University"
   year = 2016
- 
+
 +++
 
 # Biography
